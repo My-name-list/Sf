@@ -29,7 +29,7 @@
           <div class="col-middle">
             <div class="text-center">
               <h1 class="error-number">403</h1>
-              <h2>对不起，您没有权限访问！</h2>
+              <h2>对不起，sfsdsdd您没有权限访问！</h2>
               <p>请返回到 <a href="${pageContext.request.contextPath }/index.jsp">系统入口</a>
               </p>
             </div>
